@@ -1,0 +1,38 @@
+[33m0e18bf1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcarlos[m[33m, [m[1;31morigin/carlos[m[33m)[m HEAD@{0}: commit (merge): resolviendo conflistos del archivo modeloXGB
+[33m4e03174[m HEAD@{1}: commit: Eda con mas graficos y archivo renombrado
+[33m622fa35[m HEAD@{2}: commit: Finalizando el diseño del EDA parte 2
+[33m47a5875[m HEAD@{3}: commit: Finalizando el diseño del eda parte 1
+[33m5877c86[m HEAD@{4}: pull origin betania: Fast-forward
+[33mfee2fe7[m HEAD@{5}: commit: Finalizando el diseño del EDA
+[33m5b7e25c[m HEAD@{6}: pull origin elius: Fast-forward
+[33mc36c3f4[m HEAD@{7}: commit: Finalizando eda
+[33m736398a[m HEAD@{8}: pull origin betania: Merge made by the 'ort' strategy.
+[33mf6cee5d[m HEAD@{9}: pull origin betania: Merge made by the 'ort' strategy.
+[33m5b2a8f8[m HEAD@{10}: commit: cambios con branch betania
+[33m579668f[m HEAD@{11}: pull origin betania: Merge made by the 'ort' strategy.
+[33ma755655[m HEAD@{12}: pull origin betania: Merge made by the 'ort' strategy.
+[33m3f67323[m HEAD@{13}: commit: Validacion de tratamiento de características
+[33mdcb7958[m HEAD@{14}: commit: Modelo hiperparametrizacion
+[33mfc8e263[m HEAD@{15}: commit: EDA CARLOS
+[33mcaa83bf[m HEAD@{16}: commit: Modelo con buenas metricas, MAE 7.78
+[33m8223580[m HEAD@{17}: commit: Nuevo archivo, Eda distinto con modelo XGBoost
+[33m534c24a[m HEAD@{18}: commit: EDA 3
+[33m9d7ec6f[m HEAD@{19}: pull origin betania: Merge made by the 'ort' strategy.
+[33mfc77eb8[m HEAD@{20}: pull origin develop: Merge made by the 'ort' strategy.
+[33m8b794cb[m HEAD@{21}: rebase (finish): returning to refs/heads/carlos
+[33m8b794cb[m HEAD@{22}: commit: Ingenieria de caracteristica Primary site
+[33m0a5ce5f[m HEAD@{23}: commit (merge): Ingenieria de características, manipulación por orden de características
+[33mc7d5eb8[m HEAD@{24}: commit: Añadi el registro de edad como valor numerico continuo y un mapa de calor de todas las columnas
+[33m7787d36[m HEAD@{25}: rebase (start): checkout origin/betania
+[33m1873a25[m HEAD@{26}: checkout: moving from carlos to carlos
+[33m1873a25[m HEAD@{27}: commit (merge): fix: resolve notebook conflicts
+[33mdd47dad[m HEAD@{28}: checkout: moving from carlos to carlos
+[33mdd47dad[m HEAD@{29}: commit: eliminadas instacias innecesarias
+[33mab605d9[m HEAD@{30}: commit: primer commit para crear otra rama
+[33m497d1b5[m HEAD@{31}: pull origin elius: Fast-forward
+[33m2398a9f[m HEAD@{32}: pull origin elius: Fast-forward
+[33ma11c748[m HEAD@{33}: pull origin betania: Fast-forward
+[33m2cbf9be[m HEAD@{34}: pull origin betania: Fast-forward
+[33ma6970e8[m[33m ([m[1;32mdevelop[m[33m)[m HEAD@{35}: checkout: moving from carlos to carlos
+[33ma6970e8[m[33m ([m[1;32mdevelop[m[33m)[m HEAD@{36}: checkout: moving from develop to carlos
+[33ma6970e8[m[33m ([m[1;32mdevelop[m[33m)[m HEAD@{37}: clone: from https://github.com/4GeeksAcademy/sp-ml-20-final-project-g1.git
